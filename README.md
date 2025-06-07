@@ -1,60 +1,28 @@
-# 🚀 SpaceX Launch Interactive Dashboard
+# Applied Data Science Capstone Projects
 
-## 📌 Project Description
-This project builds an interactive dashboard application using Plotly Dash for real-time visual analytics on SpaceX launch data. The dashboard allows users to explore launch success metrics across different launch sites, payload ranges, and booster versions with dynamic charts and user input controls.
-
----
-
-## 🎯 Objectives
-
-- Build a Plotly Dash dashboard for SpaceX launch data
-- Implement interactive components including dropdown menus and range sliders
-- Visualize launch success rates via pie charts and scatter plots
-- Enable filtering by launch site and payload range
-- Analyze success rates for different booster versions
-- Derive insights on launch performance based on user interaction
+This repository contains all the projects I completed as part of the **Applied Data Science Capstone** course (Course 10) in the **IBM Data Science Professional Certificate** on Coursera.
 
 ---
 
-## 🗂️ Data Source
+## About this Repository
 
-- **Dataset:** [SpaceX Launch Data](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv)  
-- Contains launch site info, payload mass, booster version, and launch outcomes (success/failure)
-
----
-
-## 🧰 Tools and Libraries Used
-
-- Python 🐍  
-- **Dash** – for building interactive web apps  
-- **Plotly** – for dynamic charts and visualizations  
-- **Pandas** – for data manipulation  
-- **wget** – to download datasets and app skeleton  
-- Jupyter Notebook / IDE for development
+This repo serves as a portfolio of data science projects focused on practical skills such as data wrangling, visualization, and machine learning. Each project demonstrates the application of data science techniques to real-world datasets and problems.
 
 ---
 
-## 📋 Key Features
+## Skills & Tools Developed
 
-- **Launch Site Dropdown:** Select a specific launch site or view all sites  
-- **Success Pie Chart:** Displays launch success counts by site or detailed success/failure for a selected site  
-- **Payload Range Slider:** Filter data by payload mass range (0 to 10,000 kg)  
-- **Success-Payload Scatter Plot:** Shows correlation between payload mass and launch outcome, color-coded by booster version category
-
----
-
-## 📊 Insights from the Dashboard
-
-- Identify which launch site has the largest number of successful launches  
-- Determine the site with the highest launch success rate  
-- Analyze which payload mass ranges correspond to higher or lower success rates  
-- Understand the success rate performance of different Falcon 9 booster versions  
+- **Data Wrangling & Cleaning:** Handling missing data, data transformation, and preparation.
+- **Exploratory Data Analysis (EDA):** Using statistical summaries, visualizations, and interactive dashboards.
+- **Data Visualization:** Creating static and interactive charts with libraries like Matplotlib, Seaborn, Plotly, and Dash.
+- **Machine Learning:** Implementing models including clustering, classification, and regression using Scikit-learn.
+- **Python Programming:** Proficiency in core data science libraries such as Pandas, NumPy, and Scikit-learn.
+- **Dashboards & Web Apps:** Building interactive dashboards using Dash framework.
+- **Version Control:** Using Git and GitHub to manage project versions and share work.
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run the projects
 
-1. Download the dataset and app skeleton using wget commands:  
-```bash
-wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv"
-wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/t4-Vy4iOU19i8y6E3Px_ww/spacex-dash-app.py"
+1. Clone or download this repository to your local machine.
+2. Open the Jupyter notebooks and run the code step-by-step for data cleaning, analysis, and visualization.
