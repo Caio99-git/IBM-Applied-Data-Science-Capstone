@@ -10,6 +10,20 @@ This repo serves as a portfolio of data science projects focused on practical sk
 
 ---
 
+## 📂 Project Files and Descriptions
+
+| File Name                                  | Description                                                                                           |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------|
+| `SpaceX_Machine Learning Prediction_Part_5.ipynb` | Builds a machine learning model to predict the success of SpaceX launches using launch data features. |
+| `edadataviz.ipynb`                         | Performs exploratory data analysis and visualization using Pandas, Matplotlib, and Seaborn.         |
+| `jupyter-labs-eda-sql-coursera_sqllite.ipynb` | Demonstrates data analysis using SQL queries within Jupyter on a SQLite database.                   |
+| `jupyter-labs-spacex-data-collection-api.ipynb` | Collects SpaceX launch data via API calls for subsequent analysis and modeling.                    |
+| `jupyter-labs-webscraping.ipynb`           | Demonstrates web scraping techniques to extract data from web pages using BeautifulSoup and requests. |
+| `labs-jupyter-spacex-Data wrangling.ipynb` | Cleans and prepares SpaceX launch data, handling missing values and data formatting.                |
+| `spacex-dash-app.py`                       | Dash web app that visualizes SpaceX launch data interactively with charts and filters.              |
+
+---
+
 ## Skills & Tools Developed
 
 - **Data Wrangling & Cleaning:** Handling missing data, data transformation, and preparation.
